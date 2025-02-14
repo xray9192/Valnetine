@@ -60,7 +60,7 @@ body {
   #heartAnimation {
     width: 100px;
     height: 100px;
-    background: url('https://thegraphicsfairy.com/valentine-heart-images/') no-repeat center center/contain;
+    background: url('valen.jpeg') no-repeat center center/contain;
     margin: 20px auto;
     animation: heartbeat 1.5s infinite;
   }
